@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import Header from './Header.js';
 import Home from './Home';
+import Checkout from "./checkout.js";
 import {BrowserRouter as Router, Routes, Route}
 from "react-router-dom"
 function App() {

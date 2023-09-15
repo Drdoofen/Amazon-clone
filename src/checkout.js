@@ -1,9 +1,9 @@
 import React from 'react'
 import "./checkout.css"
-function checkout() {
+function Checkout() {
   return (
     <div className='checkout'>checkout</div>
   )
 }
 
-export default checkout
+export default Checkout
